@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **Sql, Power BI, Python, Lógica de Programação e Excel**
 
-- 📫 Você me acha através do e-mail **ph55@hotmail.com**
+- 📫 Você me acha através do e-mail **henrique.corsi11@gmail.com**
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/](https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/)
 
