@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Bem Vindo!!</h1>
-<h3 align="center">Me Paulo Heenrique e sou formado em Análise e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Me Paulo Henrique e sou formado em Análise e Desenvolvimento de Sistemas.</h3>
 
 - 🌱 Atualmente estou estudando **Python, MySql e SQL Server**
 
