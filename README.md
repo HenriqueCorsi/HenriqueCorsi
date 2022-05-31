@@ -11,7 +11,7 @@
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/](https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/)
 
-- ⚡ Curiosidade **Sou apaixonado por música, futebol e tecnologia**
+- ⚡ Curiosidades: **Sou apaixonado por música, futebol e tecnologia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
