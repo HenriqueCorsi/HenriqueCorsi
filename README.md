@@ -3,7 +3,7 @@
 
 - 🔭 Atualmete estou me capacitando para conseguir meu primeiro emprego na área de Tecnologia
 
-- 🌱 Estudando  **Python, MySql e SQL Server**
+- 🌱 Estudando  **Python, MySql, SQL Server, HTML5 e CSS3
 
 - 💬 Me pergunte sobre **Sql, Power BI, Python, Lógica de Programação e Excel**
 
