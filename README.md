@@ -1,9 +1,6 @@
 <h1 align="center">Oi 👋 Seja Bem Vindo! </h1>
 <h3 align="center">Formado em Análise e Desenvolvimento de Sistemas</h3>
 
-- 🔭 Atualmete estou me capacitando para conseguir meu primeiro emprego na área de Tecnologia
-
-- 🌱 Estudando  **Python, MySql, SQL Server, HTML5, CSS3 e JavaScript
 
 - 💬 Me pergunte sobre **Sql, Power BI, Python, Lógica de Programação e Excel**
 
