@@ -2,7 +2,7 @@
 <h3 align="center">Formado em Análise e Desenvolvimento de Sistemas</h3>
 
 
-- 💬 Me pergunte sobre **Sql, Power BI, Python, Lógica de Programação e Excel**
+- 💬 Me pergunte sobre **Python, SQL Language e Desenvolvimento Web**
 
 - 📫 Você me acha através: [**Portifólio**](https://henriquecorsi.github.io/portfolio-web/)
 
