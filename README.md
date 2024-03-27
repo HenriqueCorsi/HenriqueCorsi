@@ -4,8 +4,6 @@
 
 - 💬 Me pergunte sobre **Python, SQL Language e Desenvolvimento Web**
 
-- 📫 Você me acha através: [**Portifólio**](https://henriquecorsi.github.io/portfolio-web/)
-
 - 📄 Minhas experiências [https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/](https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/)
 
 - ⚡ Curiosidades: **Sou apaixonado por música, futebol e tecnologia**
