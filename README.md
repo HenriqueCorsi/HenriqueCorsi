@@ -2,7 +2,7 @@
 <h3 align="center">Formado em Análise e Desenvolvimento de Sistemas</h3>
 
 
-- 💬 Me pergunte sobre **Python, SQL Language e Desenvolvimento Web**
+- 💬 Me pergunte sobre **Python, SQL, Analise de Dados e Desenvolvimento Web**
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/](https://www.linkedin.com/in/paulo-henrique-corsi-dos-santos-2b7427239/)
 
